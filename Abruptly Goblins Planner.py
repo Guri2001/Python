@@ -2,9 +2,17 @@
 # coding: utf-8
 
 # # Introduction
-# 
-# Opening your comic book store, the Sorcery Society, has been a lifelong dream come true. You quickly diversified your shop offerings to include miniatures, plush toys, collectible card games, and board games. Eventually, the store became more a games store with a selection of this week's newest comic books and a small offering of graphic novel paperbacks. Completing your transformation means offering space for local tabletop gamers. They love to play their favorite RPG, "Abruptly Goblins!" and will happily pay you per chair to secure the space to do it. Unfortunately, planning the game night has fallen to you. If you pick the wrong night, not enough people will come and the game night will be cancelled. You decide it's best that you automate the game night selector to get the most people through the door. First you need to create a list of people who will be attending the game night.
-
+"""
+Opening your comic book store, the Sorcery Society, has been a lifelong dream come true. 
+You quickly diversified your shop offerings to include miniatures, plush toys, collectible card games, 
+and board games. Eventually, the store became more a games store with a selection of this week's newest comic books and a small offering of graphic novel paperbacks.
+Completing your transformation means offering space for local tabletop gamers. 
+They love to play their favorite RPG, "Abruptly Goblins!" and will happily pay you per chair to secure the space to do it. Unfortunately, 
+planning the game night has fallen to you. 
+If you pick the wrong night, not enough people will come and the game night will be cancelled. 
+You decide it's best that you automate the game night selector to get the most people through the door. 
+First you need to create a list of people who will be attending the game night.
+"""
 
 
 gamers = []
